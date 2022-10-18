@@ -1,0 +1,28 @@
+body{background-color: gray;
+    font-family: monospace;
+    padding: 20px;
+color: orange;}
+main{border: 7px double orange;}
+.name{font-size: large;
+text-align: center;}
+#contact{font-weight: bold;
+    text-decoration: underline;
+    font-size: medium;}
+.links:hover {color: azure;}
+.links:visited:visited {color:azure;}
+.myButton {
+    color: rgb(255, 255, 255); 
+    font-size: 20px; 
+    line-height: 20px; 
+    padding: 14px; 
+    border-radius: 0px; 
+    font-family: monospace; 
+    border: 7px double rgba(28, 110, 164, 0.98); 
+    display: inline-block;
+    justify-content: center;
+    display: flex;
+    flex-direction:row;}
+    .myButton:hover {
+    background: #1C6EA4; }
+    .myButton:active {
+    background: #144E75; }
