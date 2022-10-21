@@ -23,7 +23,7 @@ main{border: 5px double orange;
 .links:hover{color: azure;}
 
 /*BUTTONS*/
-.myButton {
+.firstbutton {
     color: rgb(255, 255, 255); 
     font-size: 20px; 
     line-height: 20px;
@@ -31,15 +31,36 @@ main{border: 5px double orange;
     padding: 14px; 
     border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
+    display: inline;
     }
-.myButton:visited{
+.firstbutton:visited{
     text-decoration: none;
 }
-.myButton:hover {
+.firstbutton:hover {
     background: #1C6EA4;
     text-decoration: none; }
-.myButton:active {
+.firstbutton:active {
     background: #144E75;
     text-decoration: none; }
-.first{display: inline;}
-.second{display: inline;}
+
+.secondbutton {
+        color: rgb(255, 255, 255); 
+        font-size: 20px; 
+        line-height: 20px;
+        text-decoration: none; 
+        padding: 14px; 
+        border-radius: 0px; 
+        border: 5px double rgba(28, 110, 164, 0.98);
+        display: inline;
+        }
+.secondbutton:visited{
+        text-decoration: none;
+        }
+.secondbutton:hover {
+        background: #1C6EA4;
+        text-decoration: none; }
+.secondbutton:active {
+        background: #144E75;
+        text-decoration: none; }
+
+
