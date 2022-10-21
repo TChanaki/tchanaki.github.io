@@ -22,7 +22,7 @@ main{border: 5px double orange;
 .links:visited{color:azure;}
 .links:hover{color: azure;}
 
-/*BUTTONS*/
+/*FIRST LINE BUTTONS*/
 .firstbutton {
     color: rgb(255, 255, 255); 
     font-size: 20px; 
@@ -42,7 +42,8 @@ main{border: 5px double orange;
 .firstbutton:active {
     background: #144E75;
     text-decoration: none; }
-
+    
+/*SECOND LINE BUTTONS*/
 .secondbutton {
         color: rgb(255, 255, 255); 
         font-size: 20px; 
