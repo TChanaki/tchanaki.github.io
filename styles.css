@@ -13,11 +13,10 @@ main{border: 5px double orange;
     margin-right:5%;}
 
 /*DETAILS*/
+#name{font-size: xx-large;}
 h1{font-size: large;
     text-align: center;}
-#contact{font-weight: bold;
-    text-decoration: underline;
-    font-size: medium;}
+p{text-align: center;}
 
 
 .links:visited{color:azure;}
