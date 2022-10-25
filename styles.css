@@ -4,10 +4,6 @@ body{background-color: gray;
     color: orange;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 5%;
-    margin-right:5%;
     }
 main{border: 5px double orange;
     padding:2%;
@@ -50,7 +46,11 @@ p{text-align: center;}
     text-decoration: none; }
 #firstrow:active {
     background: #144E75;
-    text-decoration: none; }
+    text-decoration: none; 
+}
+#background{border-radius: 0px; 
+    border: 5px double rgba(28, 110, 164, 0.98);
+}
     
 /*SECOND LINE BUTTONS*/
 #secondrow {
