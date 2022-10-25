@@ -49,6 +49,12 @@ p{text-align: center;}
 #background{border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
 }
+#education{border-radius: 0px; 
+    border: 5px double rgba(28, 110, 164, 0.98);
+}
+#professional{border-radius: 0px; 
+    border: 5px double rgba(28, 110, 164, 0.98);
+}
     
 /*SECOND LINE BUTTONS*/
 #secondrow {
