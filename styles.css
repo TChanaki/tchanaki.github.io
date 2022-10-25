@@ -23,7 +23,7 @@ p{text-align: center;}
 .links:hover{color: azure;}
 
 /*FIRST LINE BUTTONS*/
-#firstbutton {
+#firstrow {
     color: rgb(255, 255, 255); 
     font-size: 20px; 
     line-height: 20px;
@@ -35,19 +35,20 @@ p{text-align: center;}
     margin-bottom: 5%;
     margin-left: 5%;
     margin-right:5%;
+    justify-content: center;
     }
-#firstbutton:visited{
+#firstrow:visited{
     text-decoration: none;
 }
-#firstbutton:hover {
+#firstrow:hover {
     background: #1C6EA4;
     text-decoration: none; }
-#firstbutton:active {
+#firstrow:active {
     background: #144E75;
     text-decoration: none; }
     
 /*SECOND LINE BUTTONS*/
-#secondbutton {
+#secondrow {
         color: rgb(255, 255, 255); 
         font-size: 20px; 
         line-height: 20px;
@@ -56,13 +57,13 @@ p{text-align: center;}
         border-radius: 0px; 
         border: 5px double rgba(28, 110, 164, 0.98);
         }
-#secondbutton:visited{
+#secondrow:visited{
         text-decoration: none;
         }
-#secondbutton:hover {
+#secondrow:hover {
         background: #1C6EA4;
         text-decoration: none; }
-#secondbutton:active {
+#secondrow:active {
         background: #144E75;
         text-decoration: none; }
 
