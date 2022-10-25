@@ -42,7 +42,7 @@ h1{font-size: large;
     text-decoration: none; 
 }
 #background{border-radius: 0px; 
-    border: 5px double rgba(28, 110, 164, 0.98);
+    border: 2% double rgba(28, 110, 164, 0.98);
     padding: 5%;
 }
 #education{border-radius: 0px; 
