@@ -19,7 +19,7 @@ h1{font-size: large;
 #socials{text-align: center;}
 
 .links{color: orange;}
-.links:visited{color:azure;}
+.links:visited{color:orange;}
 .links:hover{color: azure;}
 
 /*FIRST LINE BUTTONS*/
@@ -38,18 +38,19 @@ h1{font-size: large;
 #firstrow:hover {
     text-decoration: none; }
 #firstrow:active {
-    background: #144E75;
     text-decoration: none; 
 }
 #background{border-radius: 0px; 
-    border: 2% double rgba(28, 110, 164, 0.98);
-    padding: 5%;
+    border: 5px double rgba(28, 110, 164, 0.98);
+    padding: 5px;
 }
 #education{border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
+    padding: 5px;
 }
 #professional{border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
+    padding: 5px;
 }
 #background:hover{background: #1C6EA4;
 }
@@ -80,17 +81,18 @@ h1{font-size: large;
     }
 #personal{border-radius: 0px; 
             border: 5px double rgba(28, 110, 164, 0.98);
-        }
-#personal:hover{background: #1C6EA4;
+            padding: 5px;
         }
 #laisure{border-radius: 0px; 
             border: 5px double rgba(28, 110, 164, 0.98);
+            padding: 5px;
+        }
+#personal:hover{background: #1C6EA4;
         }
 #laisure:hover{background: #1C6EA4;
         }
 
 /*lISTS*/
 
-ul{display: flex;}
 
 
