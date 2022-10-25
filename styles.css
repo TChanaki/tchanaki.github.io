@@ -55,6 +55,12 @@ p{text-align: center;}
 #professional{border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
 }
+#background:hover{background: #1C6EA4;
+}
+#education:hover{background: #1C6EA4;
+}
+#professional:hover{background: #1C6EA4;
+}
     
 /*SECOND LINE BUTTONS*/
 #secondrow {
@@ -72,10 +78,21 @@ p{text-align: center;}
         text-decoration: none;
         }
 #secondrow:hover {
-        background: #1C6EA4;
-        text-decoration: none; }
+        text-decoration: none; 
+    }
 #secondrow:active {
         background: #144E75;
-        text-decoration: none; }
+        text-decoration: none; 
+    }
+#personal{border-radius: 0px; 
+            border: 5px double rgba(28, 110, 164, 0.98);
+        }
+#personal:hover{background: #1C6EA4;
+        }
+#laisure{border-radius: 0px; 
+            border: 5px double rgba(28, 110, 164, 0.98);
+        }
+#laisure:hover{background: #1C6EA4;
+        }
 
 
