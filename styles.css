@@ -13,7 +13,7 @@ main{border: 5px double orange;
     margin-right:5%;}
 
 /*DETAILS*/
-.name{font-size: large;
+#name{font-size: large;
     text-align: center;}
 #contact{font-weight: bold;
     text-decoration: underline;
@@ -23,7 +23,7 @@ main{border: 5px double orange;
 .links:hover{color: azure;}
 
 /*FIRST LINE BUTTONS*/
-.firstbutton {
+#firstbutton {
     color: rgb(255, 255, 255); 
     font-size: 20px; 
     line-height: 20px;
@@ -33,18 +33,18 @@ main{border: 5px double orange;
     border: 5px double rgba(28, 110, 164, 0.98);
     display: inline;
     }
-.firstbutton:visited{
+#firstbutton:visited{
     text-decoration: none;
 }
-.firstbutton:hover {
+#firstbutton:hover {
     background: #1C6EA4;
     text-decoration: none; }
-.firstbutton:active {
+#firstbutton:active {
     background: #144E75;
     text-decoration: none; }
     
 /*SECOND LINE BUTTONS*/
-.secondbutton {
+#secondbutton {
         color: rgb(255, 255, 255); 
         font-size: 20px; 
         line-height: 20px;
@@ -54,13 +54,13 @@ main{border: 5px double orange;
         border: 5px double rgba(28, 110, 164, 0.98);
         display: inline;
         }
-.secondbutton:visited{
+#secondbutton:visited{
         text-decoration: none;
         }
-.secondbutton:hover {
+#secondbutton:hover {
         background: #1C6EA4;
         text-decoration: none; }
-.secondbutton:active {
+#secondbutton:active {
         background: #144E75;
         text-decoration: none; }
 
