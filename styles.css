@@ -4,6 +4,10 @@ body{background-color: gray;
     color: orange;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right:5%;
     }
 main{border: 5px double orange;
     padding:2%;
