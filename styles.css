@@ -18,6 +18,7 @@ main{border: 5px double orange;
 #contact{font-weight: bold;
     text-decoration: underline;
     font-size: medium;}
+.social{display: inline;}
 
 .links:visited{color:azure;}
 .links:hover{color: azure;}
@@ -31,6 +32,10 @@ main{border: 5px double orange;
     padding: 14px; 
     border-radius: 0px; 
     border: 5px double rgba(28, 110, 164, 0.98);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right:5%;
     }
 #firstbutton:visited{
     text-decoration: none;
