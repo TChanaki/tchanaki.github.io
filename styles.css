@@ -14,9 +14,13 @@ main{border: 5px double orange;
 
 /*DETAILS*/
 #name{font-size: xx-large;}
-h1{font-size: large;
+#contact{font-size: large;
     text-align: center;}
 #socials{text-align: center;}
+h1{font-size: xx-large;
+text-align: center;}
+h2{font-size: large;
+}
 
 .links{color: orange;}
 .links:visited{color:orange;}
