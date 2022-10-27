@@ -13,7 +13,7 @@ main{border: 5px double #78290f;
     margin-right:5%;}
 
 /*NOT WORKING*/
-    nav{color: #78290f;}
+.nav{color: #78290f;}
 
 /*DETAILS*/
 #name{font-size: xx-large;}
