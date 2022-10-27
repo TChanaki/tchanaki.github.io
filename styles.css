@@ -1,16 +1,19 @@
-body{background-color: gray;
+body{background-color: #cad593;
     font-family: 'Jost', monospace;
     padding: 20px;
-    color: orange;
+    color: #2a3c24;
     flex-wrap: wrap;
     justify-content: center;
     }
-main{border: 5px double orange;
+main{border: 5px double #78290f;
     padding:2%;
     margin-top: 5%;
     margin-bottom: 5%;
     margin-left: 5%;
     margin-right:5%;}
+
+/*NOT WORKING*/
+    nav{color: #78290f;}
 
 /*DETAILS*/
 #name{font-size: xx-large;}
@@ -22,13 +25,12 @@ text-align: center;}
 h2{font-size: large;
 }
 
-.links{color: orange;}
-.links:visited{color:orange;}
-.links:hover{color: azure;}
+.links{color: #2a3c24;}
+.links:visited{color:#2a3c24;}
+.links:hover{color: #A1C349;}
 
 /*FIRST LINE BUTTONS*/
 #firstrow {
-    color: rgb(255, 255, 255); 
     font-size: 20px; 
     line-height: 20px;
     text-decoration: none; 
@@ -45,27 +47,30 @@ h2{font-size: large;
     text-decoration: none; 
 }
 #background{border-radius: 0px; 
-    border: 5px double rgba(28, 110, 164, 0.98);
+    border: 5px double #2a3c24;
+    color: #78290f;
     padding: 5px;
 }
 #education{border-radius: 0px; 
-    border: 5px double rgba(28, 110, 164, 0.98);
+    border: 5px double #2a3c24;
+    color: #78290f;
     padding: 5px;
 }
 #professional{border-radius: 0px; 
-    border: 5px double rgba(28, 110, 164, 0.98);
+    border: 5px double #2a3c24;
+    color: #78290f;
     padding: 5px;
 }
-#background:hover{background: #1C6EA4;
+#background:hover{background: #A1C349;
 }
-#education:hover{background: #1C6EA4;
+#education:hover{background: #A1C349;
 }
-#professional:hover{background: #1C6EA4;
+#professional:hover{background: #A1C349;
 }
     
 /*SECOND LINE BUTTONS*/
 #secondrow {
-        color: rgb(255, 255, 255); 
+        color: #2a3c24; 
         font-size: 20px; 
         line-height: 20px;
         text-decoration: none; 
@@ -80,20 +85,22 @@ h2{font-size: large;
         text-decoration: none; 
     }
 #secondrow:active {
-        background: #144E75;
+        background: #2a3c24;
         text-decoration: none; 
     }
 #personal{border-radius: 0px; 
-            border: 5px double rgba(28, 110, 164, 0.98);
+            border: 5px double#2a3c24;
+            color: #78290f;
             padding: 5px;
         }
 #laisure{border-radius: 0px; 
-            border: 5px double rgba(28, 110, 164, 0.98);
+            border: 5px double #2a3c24;
+            color: #78290f;
             padding: 5px;
         }
-#personal:hover{background: #1C6EA4;
+#personal:hover{background: #A1C349;
         }
-#laisure:hover{background: #1C6EA4;
+#laisure:hover{background: #A1C349;
         }
 
 /*lISTS*/
