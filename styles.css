@@ -1,10 +1,12 @@
-body{background-color: #cad593;
+body{background-image: url("media/background.jpg");
+    background-size: contain;
     font-family: 'Jost', monospace;
     padding: 20px;
     color: #2a3c24;
     flex-wrap: wrap;
     justify-content: center;
     }
+
 main{border: 5px double #78290f;
     padding:2%;
     margin-top: 5%;
