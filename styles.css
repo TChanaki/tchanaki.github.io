@@ -84,10 +84,7 @@ h2{font-size: large;
 #secondrow:hover {
         text-decoration: none; 
     }
-#secondrow:active {
-        background: #2a3c24;
-        text-decoration: none; 
-    }
+
 #personal{border-radius: 0px; 
             border: 5px double#2a3c24;
             color: #78290f;
@@ -104,6 +101,36 @@ h2{font-size: large;
         }
 
 /*lISTS*/
+#interpersonal, #tech{width: 320px;
+    padding: 5px;
+    border: 5px solid #2a3c24;
+    margin: 5%;
+    display: inline-block;
+}
+.skill{text-align: center;}
 
+/*IMAGES*/
+img{ margin: 5px;
+    border: 1px solid #ccc;
+    float:inline-start;
+    width: 180px;
+    flex: auto;
+}
+
+.dth{float: right;
+    width: 15% ;
+}
+
+/*TABLE*/
+table, th, td {
+    border: 1px solid;
+    text-align: left;
+}
+table{width: 100%;
+}
+.headings{text-align: center;
+}
+.issue{text-align: center;
+}
 
 
