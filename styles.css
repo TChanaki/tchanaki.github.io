@@ -14,11 +14,6 @@ main{border: 5px double #78290f;
     margin-left: 5%;
     margin-right:5%;}
 
-/*NOT WORKING*/
-.nav{color: #78290f;}
-.nav:hover{color:purple;}
-.nav:active{color:#2a3c24}
-.nav:visited{color: #78290f;}
 
 /*DETAILS*/
 #name{font-size: xx-large;}
